@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DweetParikh
 - 👀 I’m interested in Web3, Blockchain, Crypto 🪙
-- 🌱 I’m currently learning Solidity, Rust 💻
 - 📫 How to reach me dweet.parikh16@gmail.com 📧
 - ⚡ Fun fact: I didn't wanted to code initially! 😬
 
